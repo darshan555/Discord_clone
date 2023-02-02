@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+#headDisc{
+    font-family: 'Archivo Black', sans-serif;;
+}
